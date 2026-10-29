@@ -1,4 +1,4 @@
-# WINRA7 — Personal Finance Tracker
+# WINRA7  Personal Finance Tracker
 
 **اعرف دراهمك وين راحو — Know where your money goes.**
 
